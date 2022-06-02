@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #acacff;
+    background-color: #6868eb;
 }
 
 main {
@@ -38,4 +38,4 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
-}
+} 
